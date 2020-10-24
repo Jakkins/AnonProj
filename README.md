@@ -128,7 +128,7 @@ service tor stop/start/restart
 
 Installato e avviato Tor esso funzionera' come un **proxy locale in ascolto sulla porta 9050 tramite socks4 (nel 2017)** e **porta 9150 per Tor Browser**.
 
-<span style="background-color:orange">Arch Linux has deprecated net-tools in favor of iproute2</span>
+<span style="color:red">Arch Linux has deprecated net-tools in favor of iproute2</span>
 ```
 Deprecated command 	Replacement commands
 netstat 	          ss
