@@ -1,5 +1,7 @@
 # AnonProj
 
+## Sources
+
 - Hacklog 1
 - Hacklog 2
 
@@ -15,9 +17,12 @@
     - DNS Leak (Proxy DNS trasparenti, switch che leggono le richieste DNS...)
   - **VPN con criptomonete** (bitcoin, litecoin, ...)
   - OpenVPN
-8. [Tor](#tor) (Deepweb != Darknet)
+8. [TOR](#tor) (Deepweb != Darknet)
   - scaricarlo dalla repo officiale
   - scaricare le chiavi gpg per i certificati
+  - I2P, alternativa a Tor
+9. test TOR
+  - [TorCheck.xenobite.ue](https://torcheck.xenobite.eu/)
 
 ## Distros
 
@@ -104,6 +109,16 @@ TorProject.org riceve soldi dal dipartimento degli stati uniti d'America per svi
   - LV4: Bridge Router
     - simili agli exit router (LV3)
     - sono server con identificatore privato per bypassare il blocco della rete Tor se viene applicata dagli ISP, o dallo stato, o altro
+  - LV5: Tor Relay
+    - ogni utente puo' essere un relay, puoi decidere se essere un middleman o un exit node
+    - i middleman e gli exit node (LV3), anche loro sono relay
+  - LV6: Pluggable Transports (PT)
+    - Hanno il compito di transformare il flusso del traffico tor in traffico pulito tra il client e il bridge che altrimenti potrebbe essere intercettato dall'ISP con una tecnica chiamata DPI (deep packet inspection)
+    - Chiamati anche **Bridge offuscati**
+    - Protocolli
+      - obfs2 (**NO**)
+      - obfs3 (WAT)
+      - obfs4 (Simile a ScrambleSuite) [**Presente di default su Tor Browser**]
  
 ```
 service tor status
@@ -122,7 +137,27 @@ netstat 	          ss
 netstat -tanp | grep tor
 ```
 
-> **Settare il proxy per farlo lavorare sulla porta di tor**
+### Settare il proxy per farlo lavorare sulla porta di tor
+
+### Tor Bundle, Tor Expert Bundle
+
+- Firefox ESR -> Tor Browser -> Proxyserver SOCKS (9150)
+  - Plugin gia' inseriti
+    - TorLauncher
+    - TorButton
+    - NoScript
+    - HTTPS Everywhere
+  - Da inserire
+    - qualcosa per fare un fake FingerPrint
+      - CanvasBlocker
+- TorChat
+  - decentralizzato
+- bridges.torproject.org/bridges
+  - possono essere blacklistati
+
+## Test Tor
+
+TorCheck.xenobite.ue
 
 
 
