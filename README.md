@@ -13,16 +13,16 @@
 5. FingerPrint
 6. HTTPS, plugin to force https
 7. [VPN](#vpn) e pagamento in cripto
-  - **Attento ai DNS**, use DNS Leak Prevent
-    - DNS Leak (Proxy DNS trasparenti, switch che leggono le richieste DNS...)
-  - **VPN con criptomonete** (bitcoin, litecoin, ...)
-  - OpenVPN
+    - **Attento ai DNS**, use DNS Leak Prevent
+      - DNS Leak (Proxy DNS trasparenti, switch che leggono le richieste DNS...)
+    - **VPN con criptomonete** (bitcoin, litecoin, ...)
+    - OpenVPN
 8. [TOR](#tor) (Deepweb != Darknet)
-  - scaricarlo dalla repo officiale
-  - scaricare le chiavi gpg per i certificati
-  - I2P, alternativa a Tor
+    - scaricarlo dalla repo officiale
+    - scaricare le chiavi gpg per i certificati
+    - I2P, alternativa a Tor
 9. test TOR
-  - [TorCheck.xenobite.ue](https://torcheck.xenobite.eu/)
+    - [TorCheck.xenobite.ue](https://torcheck.xenobite.eu/)
 
 ## Distros
 
