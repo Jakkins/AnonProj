@@ -10,19 +10,26 @@
 2. Non usare la rete di casa
 3. **NO Proxy**
 4. **NO Google**, e.g. use DuckDuckGo
-5. FingerPrint
-6. HTTPS, plugin to force https
-7. [VPN](#vpn) e pagamento in cripto
+5. [VPN](#vpn) e pagamento in cripto
     - **Attento ai DNS**, use DNS Leak Prevent
       - DNS Leak (Proxy DNS trasparenti, switch che leggono le richieste DNS...)
     - **VPN con criptomonete** (bitcoin, litecoin, ...)
     - OpenVPN
-8. [TOR](#tor) (Deepweb != Darknet)
+6. [TOR](#tor) (Deepweb != Darknet)
     - scaricarlo dalla repo officiale
     - scaricare le chiavi gpg per i certificati
-    - I2P, alternativa a Tor
-9. test TOR
+    - test TOR
     - [TorCheck.xenobite.ue](https://torcheck.xenobite.eu/)
+7. Risorse Locali
+    - FingerPrint, Canvas Blocker
+    - HTTPS, plugin to force https
+    - Cookie (file di testo)
+        - I cookie di terze parti possono condividere informazioni sui siti web visitati
+        - Cookie Manager
+        - Usare la modalita' incognito (non salva i cookie)
+    - NoScript, uMatrix
+    - Disable Web RTC
+    
 
 ## Distros
 
@@ -31,6 +38,11 @@
 ## To Check
 
 https://wedevs.com/164817/make-search-anonymous-with-duckduckgo/
+
+## Smartphone
+
+- Browser
+    - https://www.orchid.com/
 
 ## Altro
 
@@ -156,9 +168,12 @@ netstat -tanp | grep tor
 - bridges.torproject.org/bridges
   - possono essere blacklistati
 
-## Test Tor
+## Surf 
 
-TorCheck.xenobite.ue
+- The Hidden Wiki
+- Exit Node Compromessi? Cripta tutto il traffico (HTTPS)
+- I2P
+- Freenet
 
 
 
@@ -178,24 +193,3 @@ TorCheck.xenobite.ue
 # Arch Linux Configuration
 
 [Network configuration](https://wiki.archlinux.org/index.php/Network_configuration)
-
-```
-net-tools
-
-Arch Linux has deprecated net-tools in favor of iproute2
-
-Deprecated command 	Replacement commands
-arp 	              ip neighbor
-ifconfig 	          ip address, ip link
-netstat 	          ss
-route 	            ip route
-
-$ ss
-216.58.198.46     Google
-52.12.8.165
-40.114.177.156    DuckDuckGo
-151.101.240.133   GitHub
-140.82.112.26
-138.201.81.199
-40.114.178.124    DuckDuckGo
-```
