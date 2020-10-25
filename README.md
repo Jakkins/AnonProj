@@ -6,7 +6,7 @@
 2. Non usare la rete di casa
 3. **NO Proxy**
 4. **NO Google**, e.g. use DuckDuckGo
-5. [VPN](https://github.com/Jakkins/AnonProj/blob/master/VPN.md) **a pagamento in criptovalute
+5. [VPN](https://github.com/Jakkins/AnonProj/blob/master/VPN.md) **a pagamento in criptovalute**
     - **Attento ai DNS**, use DNS Leak Prevent (ISP problem)
       - DNS Leak (Proxy DNS trasparenti, switch che leggono le richieste DNS...)
     - OpenVPN
@@ -38,18 +38,3 @@
 - DarkWebNews
 - [Psychonautwiki](https://psychonautwiki.org/wiki/Main_Page)
 - [Grams](https://grams-search.com/)
-
-# Arch Linux Configuration
-
-- [Network configuration](https://wiki.archlinux.org/index.php/Network_configuration)
-
-```diff
-- Arch Linux has deprecated net-tools in favor of iproute2
-
-Deprecated command 	Replacement commands
-netstat 	        ss
-
-netstat -tanp | grep tor
-```
-- Rsync per il backup, anche in ssh
-
