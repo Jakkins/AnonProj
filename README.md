@@ -7,17 +7,18 @@
 3. **NO Proxy**
 4. **NO Google**, e.g. use DuckDuckGo
 5. [VPN](https://github.com/Jakkins/AnonProj/blob/master/VPN.md) **a pagamento in criptovalute
-    - **Attento ai DNS**, use DNS Leak Prevent
+    - **Attento ai DNS**, use DNS Leak Prevent (ISP problem)
       - DNS Leak (Proxy DNS trasparenti, switch che leggono le richieste DNS...)
     - OpenVPN
 6. [TOR](https://github.com/Jakkins/AnonProj/blob/master/TOR.md) (Deepweb != Darknet)
     - scaricarlo dalla repo officiale
     - scaricare le chiavi gpg per i certificati
-    - test TOR
+7. Double Check
     - [TorCheck.xenobite.ue](https://torcheck.xenobite.eu/)
-7. Risorse Locali
+    - [browserspy](http://browserspy.dk)
+    - [panopticlick](https://panopticlick.eff.org/)
+8. Risorse Locali
     - FingerPrint, Canvas Blocker
-        - [panopticlick](https://panopticlick.eff.org/)
         - Firegloves (firefox)
     - HTTPS, plugin to force https
     - Cookie (file di testo)
@@ -26,52 +27,20 @@
         - Usare la modalita' incognito (non salva i cookie)
     - NoScript, uMatrix
     - Disable Web RTC
-    - [browserspy](http://browserspy.dk/)
+    
 
-### MUST pt. 2
+### For The Best (MUST)
 
+- [Tails OS](https://tails.boum.org/) OR [**Subgraph OS**](https://subgraph.com/) OR Qubes OS
+- [Cryptovalute](https://github.com/Jakkins/AnonProj/blob/master/Cryptovalute.md)
 - Email
     - icedove (client di posta) + enigmail
 - Veracrypt
-- [Tails OS](https://tails.boum.org/) OR [**Subgraph OS**](https://subgraph.com/) OR Qubes OS
 
 ### Smartphone
 
 - Browser
     - https://www.orchid.com/
-    
-### Cryptovalute
-
-- Wallet
-    - Tipi di wallet
-        - Software
-        - Web Based
-        - Oppure installi il client in locale
-- LocalBitcoin.com, Inforge (dove comprarli)
-- blockchain.info (vedere tutte le transazioni mondiali)
-- Mixing Service
-- Coinjoin
-- Ethereum
-
-### Mixing Service
-
-- Helix by Grams
-- bitcoinblender.net
-- bitcoinmix.org
-- payshield
-- bitcoin-for.org
-- conmixer.se
-- coinmixer.net
-- spacechain.io
-
-Modalità:
-``` 
-3 wallet.
-Creiamo un wallet1 (tramite tor) dove arrivano i bitcoin.
-Da questo wallet1 li inviamo al mixer.
-Facciamo inviare i bitcoin dal mixer al wallet2 (creato sempre su tor).
-A questo punto inviare i bitcoin dal wallet2 al wallet3 (creato sulla clearnet).
-```
 
 ## Altro
 
