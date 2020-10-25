@@ -6,11 +6,11 @@
 2. Non usare la rete di casa
 3. **NO Proxy**
 4. **NO Google**, e.g. use DuckDuckGo
-5. [VPN](#vpn) **a pagamento in criptovalute
+5. [VPN](https://github.com/Jakkins/AnonProj/blob/master/VPN.md) **a pagamento in criptovalute
     - **Attento ai DNS**, use DNS Leak Prevent
       - DNS Leak (Proxy DNS trasparenti, switch che leggono le richieste DNS...)
     - OpenVPN
-6. [TOR](#tor) (Deepweb != Darknet)
+6. [TOR](https://github.com/Jakkins/AnonProj/blob/master/TOR.md) (Deepweb != Darknet)
     - scaricarlo dalla repo officiale
     - scaricare le chiavi gpg per i certificati
     - test TOR
