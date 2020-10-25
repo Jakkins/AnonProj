@@ -40,3 +40,28 @@
 - Data Shredding (DBAN)
 - ASLR PAX (Grsecurity)
 - codice interpretato > codice compilato (il codice interpretato non è soggetto ad attacchi di tipo memory)
+- **SiteSecurityServiceState.txt**
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
