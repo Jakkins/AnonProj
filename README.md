@@ -22,6 +22,8 @@
     - [TorCheck.xenobite.ue](https://torcheck.xenobite.eu/)
 7. Risorse Locali
     - FingerPrint, Canvas Blocker
+        - [panopticlick](https://panopticlick.eff.org/)
+        - Firegloves (firefox)
     - HTTPS, plugin to force https
     - Cookie (file di testo)
         - I cookie di terze parti possono condividere informazioni sui siti web visitati
@@ -29,6 +31,12 @@
         - Usare la modalita' incognito (non salva i cookie)
     - NoScript, uMatrix
     - Disable Web RTC
+    - [browserspy](http://browserspy.dk/)
+
+## MUST pt. 2
+
+Email
+    - icedove (client di posta)
     
 
 ## Distros
@@ -174,6 +182,8 @@ netstat -tanp | grep tor
 - Exit Node Compromessi? Cripta tutto il traffico (HTTPS)
 - I2P
 - Freenet
+- PGP asimmetrica = Diffie–Hellman
+- GPG (GNU Provacy Guard) suite di tools alternativa a PGP
 
 
 
@@ -193,3 +203,4 @@ netstat -tanp | grep tor
 # Arch Linux Configuration
 
 [Network configuration](https://wiki.archlinux.org/index.php/Network_configuration)
+
