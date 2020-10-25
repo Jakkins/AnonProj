@@ -1,5 +1,13 @@
 <h1 align="center">Tor</h1>
 
+### To Check
+
+- DarkWebNews
+- [Psychonautwiki](https://psychonautwiki.org/wiki/Main_Page)
+- [Grams](https://grams-search.com/)
+
+### Onion services
+
 TorProject.org riceve soldi dal dipartimento degli stati uniti d'America per sviluppo e ricerca.
 - ```I server Tor agiscono da router per costruire una rete privata virtuale a strati```
   - LV1: Client
@@ -20,6 +28,8 @@ TorProject.org riceve soldi dal dipartimento degli stati uniti d'America per svi
       - obfs2 (**NO**)
       - obfs3 (WAT)
       - obfs4 (Simile a ScrambleSuite) [**Presente di default su Tor Browser**]
+
+### Conf
 
 Installato e avviato Tor esso funzionera' come un **proxy locale in ascolto sulla porta 9050 tramite socks4 (nel 2017)** e **porta 9150 per Tor Browser**.
 
