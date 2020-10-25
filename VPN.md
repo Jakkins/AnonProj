@@ -8,7 +8,7 @@
 - IPLeak.net
 - ipMagnet
 
-### DNS Leak Prevent
+#### DNS Leak Prevent
 
 - VPN Provider
   - Mullvad
