@@ -35,6 +35,3 @@
     - [HACKLOG 1x25 - Guida alle Cryptovalute e al Bitcoin](https://www.youtube.com/watch?v=ERwv2Q_F0LA&list=PLYkvirnokewhbPaVM8Ykaj1JVnTPfdMzE&index=27)
 - Hacklog 2
 - https://wedevs.com/164817/make-search-anonymous-with-duckduckgo/
-- DarkWebNews
-- [Psychonautwiki](https://psychonautwiki.org/wiki/Main_Page)
-- [Grams](https://grams-search.com/)
