@@ -2,26 +2,6 @@
 
 ### [VPN List](http://www.vpndienste.com/)
 
-### Test the VPN
-
-- TorGuard
-- IPLeak.net
-- ipMagnet
-
-#### DNS Leak Prevent
-
-- VPN Provider
-  - Mullvad
-  - TorGuard
-  - LimeVPN
-  - PureVPN
-- Software
-  - VPN Watcher
-  - VPN Check
-  - VPN Lifeguard
-  - TunnelRat
-  - VPNetMon
-
 ### Protocolli
 
 - Protocollo L2TP/IPSEC (non proprio sicuro)
@@ -40,3 +20,22 @@
   - Secure VPN (le piu' utilizzate)
   - Hybrid VPN (trusted + secure)
 
+## Test the VPN
+
+- TorGuard
+- IPLeak.net
+- ipMagnet
+
+### DNS Leak Prevent
+
+- VPN Provider
+  - Mullvad
+  - TorGuard
+  - LimeVPN
+  - PureVPN
+- Software
+  - VPN Watcher
+  - VPN Check
+  - VPN Lifeguard
+  - TunnelRat
+  - VPNetMon
