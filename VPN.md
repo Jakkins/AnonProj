@@ -6,7 +6,7 @@
 
 - Protocollo L2TP/IPSEC (non proprio sicuro)
   - Multithreading
-- **Protocollo OpenVPN (THIS)
+- **Protocollo OpenVPN (THIS)**
   - lento, non multithreading nel 2017
 - Protocollo PPTP (**insicuro**)
   - buono per gaming online, torrent, streaming
