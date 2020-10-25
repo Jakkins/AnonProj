@@ -18,6 +18,7 @@
     - [browserspy](http://browserspy.dk)
     - [panopticlick](https://panopticlick.eff.org/)
 8. [Risorse Locali (MUST)](https://github.com/Jakkins/AnonProj/blob/master/LocalResource.md)
+9. [Services](https://github.com/Jakkins/AnonProj/blob/master/Services.md)
 
 ### Smartphone
 
