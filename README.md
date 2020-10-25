@@ -1,21 +1,6 @@
-# AnonProj
+<h1 align="center">AnonProj</h1>
 
-## TODO
-
-- email
-- numero cell
-
-## To Check
-
-- Hacklog 1
-    - [HACKLOG 1x25 - Guida alle Cryptovalute e al Bitcoin](https://www.youtube.com/watch?v=ERwv2Q_F0LA&list=PLYkvirnokewhbPaVM8Ykaj1JVnTPfdMzE&index=27)
-- Hacklog 2
-- https://wedevs.com/164817/make-search-anonymous-with-duckduckgo/
-- DarkWebNews
-- [Psychonautwiki](https://psychonautwiki.org/wiki/Main_Page)
-- [Grams](https://grams-search.com/)
-
-## MUST
+### MUST
 
 1. Mac Spoofing
 2. Non usare la rete di casa
@@ -43,19 +28,19 @@
     - Disable Web RTC
     - [browserspy](http://browserspy.dk/)
 
-## MUST pt. 2
+### MUST pt. 2
 
 - Email
     - icedove (client di posta) + enigmail
 - Veracrypt
 - [Tails OS](https://tails.boum.org/) OR [**Subgraph OS**](https://subgraph.com/) OR Qubes OS
 
-## Smartphone
+### Smartphone
 
 - Browser
     - https://www.orchid.com/
     
-## Cryptovalute
+### Cryptovalute
 
 - Wallet
     - Tipi di wallet
@@ -114,100 +99,20 @@ A questo punto inviare i bitcoin dal wallet2 al wallet3 (creato sulla clearnet).
 - ASLR PAX (Grsecurity)
 - codice interpretato > codice compilato (il codice interpretato non è soggetto ad attacchi di tipo memory)
 
-# VPN
+### TODO
 
-### [VPN List](http://www.vpndienste.com/)
+- email
+- numero cell
 
-### Test the VPN
+### To Check
 
-- TorGuard
-- IPLeak.net
-- ipMagnet
-
-### DNS Leak Prevent
-
-- VPN Provider
-  - Mullvad
-  - TorGuard
-  - LimeVPN
-  - PureVPN
-- Software
-  - VPN Watcher
-  - VPN Check
-  - VPN Lifeguard
-  - TunnelRat
-  - VPNetMon
-
-### Protocolli
-
-- Protocollo L2TP/IPSEC (non proprio sicuro)
-  - Multithreading
-- **Protocollo OpenVPN (THIS)
-  - lento, non multithreading nel 2017
-- Protocollo PPTP (**insicuro**)
-  - buono per gaming online, torrent, streaming
-
-### Altro
-
-- VPN Multi-Hop
-- Kill Switch (usarla ad esempio se si deve andare afk)
-- Tipi di VPN
-  - Trusted VPN (devono garantire l'arrivo dei dati senza errori)
-  - Secure VPN (le piu' utilizzate)
-  - Hybrid VPN (trusted + secure)
-
-# Tor
-
-TorProject.org riceve soldi dal dipartimento degli stati uniti d'America per sviluppo e ricerca.
-- ```I server Tor agiscono da router per costruire una rete privata virtuale a strati```
-  - LV1: Client
-  - LV2: Middleman
-    - Server di rimbalzo dei dati
-  - LV3: Exit Router
-    - Server finali della rete Tor
-  - LV4: Bridge Router
-    - simili agli exit router (LV3)
-    - sono server con identificatore privato per bypassare il blocco della rete Tor se viene applicata dagli ISP, o dallo stato, o altro
-  - LV5: Tor Relay
-    - ogni utente puo' essere un relay, puoi decidere se essere un middleman o un exit node
-    - i middleman e gli exit node (LV3), anche loro sono relay
-  - LV6: Pluggable Transports (PT)
-    - Hanno il compito di transformare il flusso del traffico tor in traffico pulito tra il client e il bridge che altrimenti potrebbe essere intercettato dall'ISP con una tecnica chiamata DPI (deep packet inspection)
-    - Chiamati anche **Bridge offuscati**
-    - Protocolli
-      - obfs2 (**NO**)
-      - obfs3 (WAT)
-      - obfs4 (Simile a ScrambleSuite) [**Presente di default su Tor Browser**]
-
-Installato e avviato Tor esso funzionera' come un **proxy locale in ascolto sulla porta 9050 tramite socks4 (nel 2017)** e **porta 9150 per Tor Browser**.
-
-### Settare il proxy per farlo lavorare sulla porta di tor
-
-### Tor Bundle, Tor Expert Bundle
-
-- Firefox ESR -> Tor Browser -> Proxyserver SOCKS (9150)
-  - Plugin già inseriti
-    - TorLauncher
-    - TorButton
-    - NoScript
-    - HTTPS Everywhere
-  - Da inserire
-    - qualcosa per fare un fake FingerPrint
-      - CanvasBlocker
-- TorChat
-  - decentralizzato
-- bridges.torproject.org/bridges
-  - possono essere blacklistati
-
-## Surf 
-
-- The Hidden Wiki
-- Exit Node Compromessi? Cripta tutto il traffico (HTTPS)
-- I2P
-- Freenet
-- PGP asimmetrica = Diffie–Hellman
-- GPG (GNU Provacy Guard) suite di tools alternativa a PGP
-
+- Hacklog 1
+    - [HACKLOG 1x25 - Guida alle Cryptovalute e al Bitcoin](https://www.youtube.com/watch?v=ERwv2Q_F0LA&list=PLYkvirnokewhbPaVM8Ykaj1JVnTPfdMzE&index=27)
+- Hacklog 2
+- https://wedevs.com/164817/make-search-anonymous-with-duckduckgo/
+- DarkWebNews
+- [Psychonautwiki](https://psychonautwiki.org/wiki/Main_Page)
+- [Grams](https://grams-search.com/)
 
 
 
