@@ -29,7 +29,7 @@ TorProject.org riceve soldi dal dipartimento degli stati uniti d'America per svi
       - obfs3 (WAT)
       - obfs4 (Simile a ScrambleSuite) [**Presente di default su Tor Browser**]
 
-### Conf
+## Conf
 
 Installato e avviato Tor esso funzionera' come un **proxy locale in ascolto sulla porta 9050 tramite socks4 (nel 2017)** e **porta 9150 per Tor Browser**.
 
@@ -51,7 +51,7 @@ Installato e avviato Tor esso funzionera' come un **proxy locale in ascolto sull
 - bridges.torproject.org/bridges
   - possono essere blacklistati
 
-## Surf 
+### Surf 
 
 - The Hidden Wiki
 - Exit Node Compromessi? Cripta tutto il traffico (HTTPS)
