@@ -1,6 +1,6 @@
 <h1 align="center">AnonProj</h1>
 
-### MUST
+### MUST PC
 
 1. Mac Spoofing
 2. Non usare la rete di casa
@@ -17,56 +17,12 @@
     - [TorCheck.xenobite.ue](https://torcheck.xenobite.eu/)
     - [browserspy](http://browserspy.dk)
     - [panopticlick](https://panopticlick.eff.org/)
-8. Risorse Locali
-    - FingerPrint, Canvas Blocker
-        - Firegloves (firefox)
-    - HTTPS, plugin to force https
-    - Cookie (file di testo)
-        - I cookie di terze parti possono condividere informazioni sui siti web visitati
-        - Cookie Manager
-        - Usare la modalita' incognito (non salva i cookie)
-    - NoScript, uMatrix
-    - Disable Web RTC
-    
-
-### For The Best (MUST)
-
-- [Tails OS](https://tails.boum.org/) OR [**Subgraph OS**](https://subgraph.com/) OR Qubes OS
-- [Cryptovalute](https://github.com/Jakkins/AnonProj/blob/master/Cryptovalute.md)
-- Email
-    - icedove (client di posta) + enigmail
-- Veracrypt
+8. [Risorse Locali (MUST)](https://github.com/Jakkins/AnonProj/blob/master/LocalResource.md)
 
 ### Smartphone
 
 - Browser
     - https://www.orchid.com/
-
-## Altro
-
-- ```ToS, Terms of Service```
-- ```Privacy Policy```
-  - Logs
-  - [dlapiperdataprotection](https://www.dlapiperdataprotection.com/)
-- ```MAC```
-  - Chi conosce il tuo MAC?
-    - log files
-    - ISP
-- ```Hostname```
-- ```DNS```
-  - chi ha un server DNS?
-    - ISP
-      - il pc prende gli indirizzi DNS dall'ISP
-  - dove trovare un nuovo DNS?
-    - www.opendns.com
-    - www.opennicproject.org
-  - **cache DNS**
-    - nscd per pulire la cache DNS
-- proxychains-ng
-- Metadata, EXIF data
-- Data Shredding (DBAN)
-- ASLR PAX (Grsecurity)
-- codice interpretato > codice compilato (il codice interpretato non è soggetto ad attacchi di tipo memory)
 
 ### TODO
 
@@ -82,20 +38,6 @@
 - DarkWebNews
 - [Psychonautwiki](https://psychonautwiki.org/wiki/Main_Page)
 - [Grams](https://grams-search.com/)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 # Arch Linux Configuration
 
