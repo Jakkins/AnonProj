@@ -80,10 +80,10 @@
 Modalità:
 ``` 
 3 wallet.
-Creiamo un wallet1 tramite tor dove arrivano i bitcoin.
+Creiamo un wallet1 (tramite tor) dove arrivano i bitcoin.
 Da questo wallet1 li inviamo al mixer.
-Facciamo inviare i bitcoin dal wallet1 al wallet2 (creato sempre su tor).
-Inviare dal wallet2 al wallet3 creato sulla clearnet.
+Facciamo inviare i bitcoin dal mixer al wallet2 (creato sempre su tor).
+A questo punto inviare i bitcoin dal wallet2 al wallet3 creato sulla clearnet.
 ```
             
         
