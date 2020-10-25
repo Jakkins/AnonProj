@@ -1,11 +1,17 @@
 # AnonProj
 
-## Sources
+## To Check
 
 - Hacklog 1
+    - [HACKLOG 1x25 - Guida alle Cryptovalute e al Bitcoin](https://www.youtube.com/watch?v=ERwv2Q_F0LA&list=PLYkvirnokewhbPaVM8Ykaj1JVnTPfdMzE&index=27)
 - Hacklog 2
+- https://wedevs.com/164817/make-search-anonymous-with-duckduckgo/
+- DarkWebNews
+- [Psychonautwiki](https://psychonautwiki.org/wiki/Main_Page)
+- [Grams](https://grams-search.com/)
 
 ## MUST
+
 1. Mac Spoofing
 2. Non usare la rete di casa
 3. **NO Proxy**
@@ -35,22 +41,52 @@
 
 ## MUST pt. 2
 
-Email
-    - icedove (client di posta)
-    
-
-## Distros
-
-- [Tails](https://tails.boum.org/)
-
-## To Check
-
-https://wedevs.com/164817/make-search-anonymous-with-duckduckgo/
+- Email
+    - icedove (client di posta) + enigmail
+- Veracrypt
+- [Tails OS](https://tails.boum.org/)
+- [**Subgraph OS**](https://subgraph.com/)
+- Qubes OS
 
 ## Smartphone
 
 - Browser
     - https://www.orchid.com/
+    
+## Cryptovalute
+
+- Wallet
+    - Tipi di wallet
+        - Software
+        - Web Based
+        - Oppure installi il client in locale
+- LocalBitcoin.com, Inforge (dove comprarli)
+- blockchain.info (vedere tutte le transazioni mondiali)
+- Mixing Service
+- Coinjoin
+- Ethereum
+
+### Mixing Service
+
+- Helix by Grams
+- bitcoinblender.net
+- bitcoinmix.org
+- payshield
+- bitcoin-for.org
+- conmixer.se
+- coinmixer.net
+- spacechain.io
+
+Modalità:
+``` 
+3 wallet.
+Creiamo un wallet1 tramite tor dove arrivano i bitcoin.
+Da questo wallet1 li inviamo al mixer.
+Facciamo inviare i bitcoin dal wallet1 al wallet2 (creato sempre su tor).
+Inviare dal wallet2 al wallet3 creato sulla clearnet.
+```
+            
+        
 
 ## Altro
 
@@ -62,22 +98,26 @@ https://wedevs.com/164817/make-search-anonymous-with-duckduckgo/
   - Chi conosce il tuo MAC?
     - log files
     - ISP
-  - $apt-get install macchanger
 - ```Hostname```
 - ```DNS```
   - chi ha un server DNS?
     - ISP
-      - il pc prende gli indirizzi dall'ISP
+      - il pc prende gli indirizzi DNS dall'ISP
   - dove trovare un nuovo DNS?
     - www.opendns.com
     - www.opennicproject.org
   - **cache DNS**
     - nscd per pulire la cache DNS
 - proxychains-ng
+- Metadata, EXIF data
+- Data Shredding (DBAN)
+- ASLR PAX (Grsecurity)
+- codice interpretato > codice compilato (il codice interpretato non è soggetto ad attacchi di tipo memory)
+
 
 # VPN
 
-### [vpndienste](http://www.vpndienste.com/)
+### [VPN List](http://www.vpndienste.com/)
 
 ### Test the VPN
 
@@ -148,16 +188,6 @@ service tor stop/start/restart
 
 Installato e avviato Tor esso funzionera' come un **proxy locale in ascolto sulla porta 9050 tramite socks4 (nel 2017)** e **porta 9150 per Tor Browser**.
 
-```diff
-- Arch Linux has deprecated net-tools in favor of iproute2
-
-Deprecated command 	Replacement commands
-netstat 	          ss
-```
-```
-netstat -tanp | grep tor
-```
-
 ### Settare il proxy per farlo lavorare sulla porta di tor
 
 ### Tor Bundle, Tor Expert Bundle
@@ -202,5 +232,15 @@ netstat -tanp | grep tor
 
 # Arch Linux Configuration
 
-[Network configuration](https://wiki.archlinux.org/index.php/Network_configuration)
+- [Network configuration](https://wiki.archlinux.org/index.php/Network_configuration)
+
+```diff
+- Arch Linux has deprecated net-tools in favor of iproute2
+
+Deprecated command 	Replacement commands
+netstat 	        ss
+
+netstat -tanp | grep tor
+```
+- Rsync per il backup, anche in ssh
 
