@@ -1,5 +1,10 @@
 # AnonProj
 
+## TODO
+
+- email
+- numero cell
+
 ## To Check
 
 - Hacklog 1
