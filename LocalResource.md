@@ -15,9 +15,7 @@
     - icedove (client di posta) + enigmail
 - Veracrypt
 
-### Others
-
-## Altro
+## Others
 
 - ```ToS, Terms of Service```
 - ```Privacy Policy```
