@@ -16,10 +16,9 @@
 2. Non usare la rete di casa
 3. **NO Proxy**
 4. **NO Google**, e.g. use DuckDuckGo
-5. [VPN](#vpn) e pagamento in cripto
+5. [VPN](#vpn) **a pagamento in criptovalute
     - **Attento ai DNS**, use DNS Leak Prevent
       - DNS Leak (Proxy DNS trasparenti, switch che leggono le richieste DNS...)
-    - **VPN con criptomonete** (bitcoin, litecoin, ...)
     - OpenVPN
 6. [TOR](#tor) (Deepweb != Darknet)
     - scaricarlo dalla repo officiale
@@ -44,9 +43,7 @@
 - Email
     - icedove (client di posta) + enigmail
 - Veracrypt
-- [Tails OS](https://tails.boum.org/)
-- [**Subgraph OS**](https://subgraph.com/)
-- Qubes OS
+- [Tails OS](https://tails.boum.org/) OR [**Subgraph OS**](https://subgraph.com/) OR Qubes OS
 
 ## Smartphone
 
@@ -85,8 +82,6 @@ Da questo wallet1 li inviamo al mixer.
 Facciamo inviare i bitcoin dal mixer al wallet2 (creato sempre su tor).
 A questo punto inviare i bitcoin dal wallet2 al wallet3 (creato sulla clearnet).
 ```
-            
-        
 
 ## Altro
 
@@ -113,7 +108,6 @@ A questo punto inviare i bitcoin dal wallet2 al wallet3 (creato sulla clearnet).
 - Data Shredding (DBAN)
 - ASLR PAX (Grsecurity)
 - codice interpretato > codice compilato (il codice interpretato non è soggetto ad attacchi di tipo memory)
-
 
 # VPN
 
@@ -145,7 +139,7 @@ A questo punto inviare i bitcoin dal wallet2 al wallet3 (creato sulla clearnet).
   - Multithreading
 - **Protocollo OpenVPN (THIS)
   - lento, non multithreading nel 2017
-- Protocollo PPTP (insicuro)
+- Protocollo PPTP (**insicuro**)
   - buono per gaming online, torrent, streaming
 
 ### Altro
@@ -179,12 +173,6 @@ TorProject.org riceve soldi dal dipartimento degli stati uniti d'America per svi
       - obfs2 (**NO**)
       - obfs3 (WAT)
       - obfs4 (Simile a ScrambleSuite) [**Presente di default su Tor Browser**]
- 
-```
-service tor status
-service tor stop/start/restart
-```
-## Settare il sistema
 
 Installato e avviato Tor esso funzionera' come un **proxy locale in ascolto sulla porta 9050 tramite socks4 (nel 2017)** e **porta 9150 per Tor Browser**.
 
@@ -193,7 +181,7 @@ Installato e avviato Tor esso funzionera' come un **proxy locale in ascolto sull
 ### Tor Bundle, Tor Expert Bundle
 
 - Firefox ESR -> Tor Browser -> Proxyserver SOCKS (9150)
-  - Plugin gia' inseriti
+  - Plugin già inseriti
     - TorLauncher
     - TorButton
     - NoScript
