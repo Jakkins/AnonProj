@@ -1,11 +1,5 @@
 <h1 align="center">Local Resource</h1>
 
-### Distros
-- [Tails OS](https://tails.boum.org/)
-- [**Subgraph OS**](https://subgraph.com/)
-- Qubes OS
-- Whonix
-
 ### Plugins
 
 **Do not install other plugins, your fingerprint will be different**
@@ -15,10 +9,6 @@
 - HTTPS, plugin to force https
 - NoScript
 - uMatrix
-
-### Emails
-
-- icedove (client di posta) + enigmail
 
 ### Others
 
@@ -32,14 +22,10 @@
     - ISP
 - ```Hostname```
 - ```DNS```
-  - chi ha un server DNS?
-    - ISP
-      - il pc prende gli indirizzi DNS dall'ISP
-  - dove trovare un nuovo DNS?
-    - www.opendns.com
-    - www.opennicproject.org
+  - il pc prende gli indirizzi DNS dall'ISP, chi altro ha un server DNS?
+    - VPN
+    - Altre organizzazioni
   - **cache DNS**
-    - nscd per pulire la cache DNS
 - proxychains-ng
 - Metadata, EXIF data
 - Data Shredding (DBAN)
@@ -53,9 +39,7 @@
     - Usare la modalita' incognito (non salva i cookie)
 - Disable Web RTC
 - [Cryptovalute](https://github.com/Jakkins/AnonProj/blob/master/Cryptovalute.md)
-- Veracrypt
-
-
+- OTFE
 
 
 
