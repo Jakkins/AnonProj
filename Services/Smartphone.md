@@ -7,5 +7,5 @@
 
 - Fdroid
 - https://www.orchid.com/
-- Orfox
+- Orbot, Orfox
 
