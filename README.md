@@ -38,3 +38,4 @@
 - https://wedevs.com/164817/make-search-anonymous-with-duckduckgo/
 - https://arstechnica.com/information-technology/2015/01/browsing-in-privacy-mode-super-cookies-can-track-you-anyway/
 - [NoScript Tutorial](https://www.youtube.com/watch?v=AC4ALEKZRfg)
+- https://archive.rebeccablacktech.com/g/search/text/%2Fcyb%2F%2Fsec%2F/type/op/
