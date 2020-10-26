@@ -45,8 +45,9 @@
 - Data Shredding (DBAN)
 - ASLR PAX (Grsecurity)
 - codice interpretato > codice compilato (il codice interpretato non è soggetto ad attacchi di tipo memory)
-- [**SiteSecurityServiceState.txt**](http://forums.mozillazine.org/viewtopic.php?f=23&t=2919581)
 - Cookie (file di testo)
+    - SuperCookie
+        - [**SiteSecurityServiceState.txt**](http://forums.mozillazine.org/viewtopic.php?f=23&t=2919581)
     - I cookie di terze parti possono condividere informazioni sui siti web visitati
     - Cookie Manager
     - Usare la modalita' incognito (non salva i cookie)
