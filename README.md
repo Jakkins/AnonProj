@@ -1,22 +1,30 @@
 <h1 align="center">AnonProj</h1>
 
+### Extremely Obvious
+
+```DO NOT USE PERSONAL INFOS```
+``` DO NOT USE CREDENTIALS THAT YOU USE ON THE CLEARNET```
+```JUST BE A TOTAL DIFFERENT PERSON```
+
 ### MUST PC
 
+0. VM or Live System
 1. Mac Spoofing
-2. Non usare la rete di casa
+2. Do not use home net
 3. **NO Proxy**
 4. **NO Google**, e.g. use DuckDuckGo
-5. [VPN](https://github.com/Jakkins/AnonProj/blob/master/VPN.md)
-6. [TOR](https://github.com/Jakkins/AnonProj/blob/master/TOR.md) (Deepweb != Darknet)
-    - scaricarlo dalla repo officiale
-    - scaricare le chiavi gpg per i certificati
-7. Double Check
+5. Tor Over VPN (don't trust ISP)
+    - [VPN](https://github.com/Jakkins/AnonProj/blob/master/VPN.md)
+    - [TOR](https://github.com/Jakkins/AnonProj/blob/master/TOR.md) (Deepweb != Darknet)
+        - scaricarlo dalla repo officiale
+        - scaricare le chiavi gpg per i certificati
+6. Double Check
     - [Test VPN](https://github.com/Jakkins/AnonProj/blob/master/VPN.md#test-the-vpn)
     - [TorCheck.xenobite.ue](https://torcheck.xenobite.eu/)
     - [browserspy](http://browserspy.dk)
     - [panopticlick](https://panopticlick.eff.org/)
-8. [Risorse Locali (MUST)](https://github.com/Jakkins/AnonProj/blob/master/LocalResource.md)
-9. [Services & Utilities](https://github.com/Jakkins/AnonProj/blob/master/Services)
+7. [Risorse Locali (MUST)](https://github.com/Jakkins/AnonProj/blob/master/LocalResource.md)
+8. [Services & Utilities](https://github.com/Jakkins/AnonProj/blob/master/Services)
     - [Smartphone services](https://github.com/Jakkins/AnonProj/blob/master/Services/Smartphone.md)
     - [Desktop services](https://github.com/Jakkins/AnonProj/blob/master/Services/Desktop.md)
 
