@@ -16,8 +16,8 @@
 5. Tor Over VPN (don't trust ISP)
     - [VPN](https://github.com/Jakkins/AnonProj/blob/master/VPN.md)
     - [TOR](https://github.com/Jakkins/AnonProj/blob/master/TOR.md) (Deepweb != Darknet)
-        - scaricarlo dalla repo officiale
-        - scaricare le chiavi gpg per i certificati
+        - download from official repo
+        - download gpg cert
 6. Double Check
     - [Test VPN](https://github.com/Jakkins/AnonProj/blob/master/VPN.md#test-the-vpn)
     - [TorCheck.xenobite.ue](https://torcheck.xenobite.eu/)
