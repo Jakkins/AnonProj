@@ -9,7 +9,7 @@
 
 ### MUST PC
 
-0. VM or Live System
+0. VM or **Live System**
 1. Mac Spoofing
 2. Do not use home net
 3. **NO Proxy**
