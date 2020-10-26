@@ -23,12 +23,6 @@
     - [Smartphone services](https://github.com/Jakkins/AnonProj/blob/master/Services/Smartphone.md)
     - [Desktop services](https://github.com/Jakkins/AnonProj/blob/master/Services/Desktop.md)
 
-### Smartphone
-
-- Browser
-    - https://www.orchid.com/
-- Orfox
-
 ### To Check
 
 - Hacklog 1
