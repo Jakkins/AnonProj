@@ -5,7 +5,7 @@
 ### Core
 
 - Scegli VPN **a pagamento in criptovalute**
-  - **Attento ai DNS**, use DNS Leak Prevent (ISP problem)
+  - **Attento ai DNS**, use [DNS Leak Prevent](https://github.com/Jakkins/AnonProj/blob/master/VPN.md#dns-leak-prevent) (ISP problem)
     - DNS Leak (Proxy DNS trasparenti, switch che leggono le richieste DNS...)
   - OpenVPN
 
