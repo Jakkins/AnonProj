@@ -2,6 +2,13 @@
 
 ### [VPN List](http://www.vpndienste.com/)
 
+### Core
+
+- Scegli VPN **a pagamento in criptovalute**
+  - **Attento ai DNS**, use DNS Leak Prevent (ISP problem)
+    - DNS Leak (Proxy DNS trasparenti, switch che leggono le richieste DNS...)
+  - OpenVPN
+
 ### Protocolli
 
 - Protocollo L2TP/IPSEC (non proprio sicuro)
