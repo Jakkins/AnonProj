@@ -5,7 +5,7 @@
 
 ### Others
 
-- Browser
-    - https://www.orchid.com/
+- Fdroid
+- https://www.orchid.com/
 - Orfox
 
