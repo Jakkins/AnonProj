@@ -25,6 +25,7 @@
 
 - Browser
     - https://www.orchid.com/
+- Orfox
 
 ### TODO
 
@@ -38,3 +39,4 @@
 - Hacklog 2
 - https://wedevs.com/164817/make-search-anonymous-with-duckduckgo/
 - https://arstechnica.com/information-technology/2015/01/browsing-in-privacy-mode-super-cookies-can-track-you-anyway/
+- [NoScript Tutorial](https://www.youtube.com/watch?v=AC4ALEKZRfg)
