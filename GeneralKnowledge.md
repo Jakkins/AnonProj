@@ -11,6 +11,7 @@
 - uMatrix
 
 ### Legend
+[from](https://www.reddit.com/r/emailprivacy/wiki/index#wiki_privacy_friendly_email_service_providers)
 ```
 MAC address       = unique identifier assigned to a network interface controller (NIC)
 ISP               = Internet Service Provider
