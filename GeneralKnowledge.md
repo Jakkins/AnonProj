@@ -10,10 +10,11 @@
 - NoScript
 - uMatrix
 
-Legend
+### Legend
 ```
 MAC address = unique identifier assigned to a network interface controller (NIC)
 ISP = Internet Service Provider
+DNS = Domain Name System
 Org. = Organization
 TOS = Terms of Service
 Privacy Policy
@@ -35,8 +36,7 @@ LEA = Law Enforcement Agency
 
 ```
 
-
-### Links
+### Bho
 
 - ```Privacy Policy```
   - Logs
