@@ -27,6 +27,7 @@
     - [ipapi](https://ipapi.co/)
 7. [General Knowledge](https://github.com/Jakkins/AnonProj/blob/master/GeneralKnowledge.md)
 8. [Services & Utilities](https://github.com/Jakkins/AnonProj/blob/master/Services)
+    - [Emails](https://github.com/Jakkins/AnonProj/blob/master/Services/Emails.md)
     - [Smartphone services](https://github.com/Jakkins/AnonProj/blob/master/Services/Smartphone.md)
     - [Desktop services](https://github.com/Jakkins/AnonProj/blob/master/Services/Desktop.md)
 9. [Law](https://github.com/Jakkins/AnonProj/blob/master/Law.md)
