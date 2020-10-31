@@ -25,7 +25,7 @@
     - [browserspy](http://browserspy.dk)
     - [panopticlick](https://panopticlick.eff.org/)
     - [ipapi](https://ipapi.co/)
-7. [Risorse Locali (MUST)](https://github.com/Jakkins/AnonProj/blob/master/LocalResource.md)
+7. [General Knowledge](https://github.com/Jakkins/AnonProj/blob/master/LocalResource.md)
 8. [Services & Utilities](https://github.com/Jakkins/AnonProj/blob/master/Services)
     - [Smartphone services](https://github.com/Jakkins/AnonProj/blob/master/Services/Smartphone.md)
     - [Desktop services](https://github.com/Jakkins/AnonProj/blob/master/Services/Desktop.md)
