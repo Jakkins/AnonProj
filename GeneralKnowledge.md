@@ -12,27 +12,27 @@
 
 ### Legend
 ```
-MAC address = unique identifier assigned to a network interface controller (NIC)
-ISP = Internet Service Provider
-DNS = Domain Name System
-Org. = Organization
-TOS = Terms of Service
+MAC address       = unique identifier assigned to a network interface controller (NIC)
+ISP               = Internet Service Provider
+DNS               = Domain Name System
+Org.              = Organization
+TOS               = Terms of Service
 Privacy Policy
-Loc. = Location - denoted by A2 (ISO) country codes, see: www.worldatlas.com/aatlas/ctycodes.htm
-Inc. = Incorporation / Company
-Min. = Minimum
-BTC = Bitcoin - see: https://bitcoin.org
-IP = Internet Protocol Address - see: https://en.wikipedia.org/wiki/IP_address
+Loc.              = Location - denoted by A2 (ISO) country codes, see: www.worldatlas.com/aatlas/ctycodes.htm
+Inc.              = Incorporation / Company
+Min.              = Minimum
+BTC               = Bitcoin - see: https://bitcoin.org
+IP                = Internet Protocol Address - see: https://en.wikipedia.org/wiki/IP_address
 Strips sender IP? = Do they take the email sender's IP address data out of the email header? Yes = good. No = bad.
-Logs login IP = Do they keep logs of the IP address from which a customer logs in to an email account?
-Encrypts data? = Do they encrypt customer account data? Yes = good.
-Can decrypt? = Can they decrypt customer data and read it if they want to? Yes = probably not good.
-EPT = https://EmailPrivacyTester.com
-Responds openly? = Did they respond openly to questions?
-JS req. = JavaScript required. JavaScript is undesirable.
-LE = Law Enforcement
-LEO = Law Enforcement Officer
-LEA = Law Enforcement Agency
+Logs login IP     = Do they keep logs of the IP address from which a customer logs in to an email account?
+Encrypts data?    = Do they encrypt customer account data? Yes = good.
+Can decrypt?      = Can they decrypt customer data and read it if they want to? Yes = probably not good.
+EPT               = https://EmailPrivacyTester.com
+Responds openly?  = Did they respond openly to questions?
+JS req.           = JavaScript required. JavaScript is undesirable.
+LE                = Law Enforcement
+LEO               = Law Enforcement Officer
+LEA               = Law Enforcement Agency
 
 ```
 
