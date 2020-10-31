@@ -1,4 +1,4 @@
-<h1 align="center">Local Resource</h1>
+<h1 align="center">General Knowledge</h1>
 
 ### Plugins
 
