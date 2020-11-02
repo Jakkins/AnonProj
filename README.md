@@ -14,6 +14,7 @@
 2. Do not use home net
 3. **NO Proxy**
 4. **NO Google**, e.g. use DuckDuckGo
+4.5 [Browsers](https://github.com/Jakkins/AnonProj/blob/master/Services)
 5. Tor Over VPN (don't trust ISP)
     - [VPN](https://github.com/Jakkins/AnonProj/blob/master/VPN.md)
     - [TOR](https://github.com/Jakkins/AnonProj/blob/master/TOR.md) (Deepweb != Darknet)
