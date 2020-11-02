@@ -14,24 +14,24 @@
 2. Do not use home net
 3. **NO Proxy**
 4. **NO Google**, e.g. use DuckDuckGo
-4.5 [Browsers](https://github.com/Jakkins/AnonProj/blob/master/Services)
-5. Tor Over VPN (don't trust ISP)
+5. [Browsers](https://github.com/Jakkins/AnonProj/blob/master/Services)
+6. Tor Over VPN (don't trust ISP)
     - [VPN](https://github.com/Jakkins/AnonProj/blob/master/VPN.md)
     - [TOR](https://github.com/Jakkins/AnonProj/blob/master/TOR.md) (Deepweb != Darknet)
         - download from official repo
         - download gpg cert
-6. Double Check
+7. Double Check
     - [Test VPN](https://github.com/Jakkins/AnonProj/blob/master/VPN.md#test-the-vpn)
     - [TorCheck.xenobite.ue](https://torcheck.xenobite.eu/)
     - [browserspy](http://browserspy.dk)
     - [panopticlick](https://panopticlick.eff.org/)
     - [ipapi](https://ipapi.co/)
-7. [General Knowledge](https://github.com/Jakkins/AnonProj/blob/master/GeneralKnowledge.md)
-8. [Services & Utilities](https://github.com/Jakkins/AnonProj/blob/master/Services)
+8. [General Knowledge](https://github.com/Jakkins/AnonProj/blob/master/GeneralKnowledge.md)
+9. [Services & Utilities](https://github.com/Jakkins/AnonProj/blob/master/Services)
     - [Emails](https://github.com/Jakkins/AnonProj/blob/master/Services/Emails.md)
     - [Smartphone services](https://github.com/Jakkins/AnonProj/blob/master/Services/Smartphone.md)
     - [Desktop services](https://github.com/Jakkins/AnonProj/blob/master/Services/Desktop.md)
-9. [Law](https://github.com/Jakkins/AnonProj/blob/master/Law.md)
+10. [Law](https://github.com/Jakkins/AnonProj/blob/master/Law.md)
 
 ### To Check
 
