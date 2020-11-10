@@ -42,3 +42,4 @@
 - https://arstechnica.com/information-technology/2015/01/browsing-in-privacy-mode-super-cookies-can-track-you-anyway/
 - [NoScript Tutorial](https://www.youtube.com/watch?v=AC4ALEKZRfg)
 - https://archive.rebeccablacktech.com/g/search/text/%2Fcyb%2F%2Fsec%2F/type/op/
+- https://www.youtube.com/channel/UCw2Y3Ijc88H2-ddO2dFOm7Q/videos
